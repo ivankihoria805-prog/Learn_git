@@ -1,6 +1,13 @@
-# 🧭 Learn Git – Basic Workflow Practice
+# 🌱 Git Learning Project
 
-This project demonstrates the **basic Git workflow**, including creating files, staging, committing, viewing logs, configuring Git, and pushing to GitHub.
+> 🚀 *A step-by-step journey through the Git workflow — from initialization to pushing changes to GitHub.*
+
+---
+
+## 🧭 Overview
+
+This repository demonstrates my understanding of **Git basics** — including repository creation, file tracking, committing changes, and configuring Git globally.  
+It serves as a hands-on exercise in version control and GitHub collaboration 💻.
 
 ---
 
@@ -95,7 +102,7 @@ git push -u origin main
 
 ---
 
-## 🖼️ Screenshots to Include
+## 🖼️ Screenshots Included
 1. Folder creation (`mkdir`)
 2. Git initialization (`git init`)
 3. Staging files (`git add`)
@@ -117,5 +124,23 @@ This exercise helped demonstrate:
 ---
 
 **Author:** *Ivan Kihoria*  
-**Date:** *October 27, 2025*  
-**Repository:** [https://github.com/ivankihoria805-prog/learn_git](https://github.com/ivankihoria805-prog/learn_git)
+**GitHub:** [@ivankihoria805-prog](https://github.com/ivankihoria805-prog)  
+**Repository:** [https://github.com/ivankihoria805-prog/learn_git](https://github.com/ivankihoria805-prog/learn_git)  
+**Date:** *October 27, 2025* 
+
+---
+
+## 💡 Learning Reflection
+
+> Through this project, I strengthened my understanding of how Git tracks changes, manages version history, and facilitates teamwork via GitHub.  
+> Each commit tells a story of progress 📈 and builds confidence in version control.
+
+---
+
+### ✨ Final Thoughts
+
+> “Code is temporary, but commits are forever.”  
+> Keep learning, keep committing, and keep growing 🌿
+
+---
+
